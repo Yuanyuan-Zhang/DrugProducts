@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DrugProducts</string>
+
+    <string name="about">\nThis mobile application is about Drugs. All of the drug data come from Health Canada website. The data will be updated once a month. \nHere is the link: "http://www.hc-sc.gc.ca/dhp-mps/prodpharma/databasdon/dpd_bdpp_data_extract-eng.php".</string>
+    <string name="help">\nThis mobile application contains most of the drug data from Health Canada. If you want to see more information about the drug, please press and hold on the drug name place and select "Search online for detail" on the context menu which will bring you to search page of Health Canada website. The other choice for the context menu is a map which will bring you to the location of the drug company</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+
+    <string name="title_activity_active">active</string>
+    <string name="title_activity_inactive">inactive</string>
+    <string name="title_activity_save">save</string>
+    <string name="title_activity_search">search</string>
+    <string name="title_activity_search_ia">search_ia</string>
+    <string name="title_activity_about">about</string>
+    <string name="title_activity_help">help</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_website">website</string>
+    <string name="action_settings">Settings</string>
+</resources>
